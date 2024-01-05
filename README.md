@@ -1,4 +1,4 @@
-# linkedin-targets.py
+# linkedin-targets.py (working title ;0)
 ---
 linkedin-targets.py is a python script that aids in finding social engineering targets faster. Instead of manually searching Linkedin, this script will scrape that data for you and highlight the person's name, job title, location, time they've worked there\*, and if their profile *possibly* has a resume.
 
