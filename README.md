@@ -26,12 +26,12 @@ There are really two different sets of options to choose from:
 This option will fetch LinkedIn urls and export them to spreadsheet along with the person's name, job title, location, time they've worked there\*, and if their profile *possibly* has a resume.
 
 ```
-python3 linkedin-targets.py --company <LinkedIn Company Name> --time 30
+python3 talent_tracker.py --company <LinkedIn Company Name> --time 30
 ```
 This option will do the above but also export a possible list of emails. This requires you to have some knowledge of the email address schema such as first.last etc. In the future I will look to integrate this with the Hunter API but for now, doing it based on names gathered and proposed email schema.
 
 ```
-python3 linkedin-targets.py --company <LinkedIn Company Name> --time 30 --emails first.last --domain email.com
+python3 talent_tracker.py --company <LinkedIn Company Name> --time 30 --emails first.last --domain email.com
 ```
 
 ### Undetected-Chromedriver
