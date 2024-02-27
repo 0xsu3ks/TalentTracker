@@ -1,6 +1,9 @@
-# linkedin-targets.py (working title ;0)
+# talent_tracker.py
+
+![Screenshot](talenttracker.webp)
+
 ---
-linkedin-targets.py is a python script that aids in finding social engineering targets faster. Instead of manually searching Linkedin, this script will scrape that data for you and highlight the person's name, job title, location, time they've worked there\*, and if their profile *possibly* has a resume.
+talent_tracker.py is a python script that aids in finding valuable social engineering targets. Instead of manually searching Linkedin, this script will scrape that data for you and highlight the person's name, job title, location, time they've worked there\*, and if their profile *possibly* has a resume.
 
 When hunting for social engineering targets, having personal knowledge of the target can be the difference between landing the hook or not. 
 
